@@ -1,4 +1,4 @@
-#BubbleTea
+# BubbleTea
 Landing page de bubble tea store usando react y tailwind
 
 Clonar el repositorio en una carpeta navegando hacia ella en la consola y ejecuta el comando:
