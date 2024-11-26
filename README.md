@@ -12,6 +12,7 @@ npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg
 Instalar tailwind con el comando:
 
 npm install -D tailwindcss 
+
 npx tailwindcss init
 
 Ejecutar el proyecto con el comando:
